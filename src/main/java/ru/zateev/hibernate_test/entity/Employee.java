@@ -6,6 +6,9 @@ import javax.persistence.*;
 @Table(name = "employee")
 public class Employee {
 
+    public int getId() {
+        return id;
+    }
 
     @Column(name = "name")
     private String name;
@@ -16,7 +19,7 @@ public class Employee {
     @Column(name = "salary")
     private int salary;
     @Column(name = "employee_id")
-//    для serial в БД
+//    для serial в БД - увеличение по правилам БД
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id
     private int id;
