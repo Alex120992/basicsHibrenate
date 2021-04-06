@@ -1,6 +1,9 @@
 main/java/ru/zateev/hibernate_test/entity/Main2.class
 main/java/ru/zateev/hibernate_test/entity/Main4.class
+main/java/ru/zateev/hibernate_test/entity/hibernate/entity/Details.class
+main/java/ru/zateev/hibernate_test/entity/hibernate/entity/Main.class
 main/java/ru/zateev/hibernate_test/entity/Employee.class
+main/java/ru/zateev/hibernate_test/entity/hibernate/entity/Employee.class
 main/java/ru/zateev/hibernate_test/entity/Main.class
 main/java/ru/zateev/hibernate_test/entity/Main3.class
 main/java/ru/zateev/hibernate_test/entity/Main5.class
