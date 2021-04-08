@@ -1,4 +1,4 @@
-package main.java.ru.zateev.hibernate_test.entity.hibernate.entity;
+package main.java.ru.zateev.hibernate_test.entity.hibernate.one_to_one_uni;
 
 import javax.persistence.*;
 

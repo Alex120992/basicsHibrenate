@@ -1,4 +1,4 @@
-package main.java.ru.zateev.hibernate_test.entity.hibernate.entity;
+package main.java.ru.zateev.hibernate_test.entity.bi_directional_one_to_one;
 
 
 
